@@ -1,4 +1,5 @@
 // ascii question
+// check if the character is an uppercase character, lowercase character, number or something else
 
 #include <iostream>
 using namespace std;
